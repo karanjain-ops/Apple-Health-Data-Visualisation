@@ -2,7 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import pandas as pd
 import datetime as dt
-"""functions I write as I go along"""
+"""coverting object into datetime"""
 
 
 def check_dates(df):

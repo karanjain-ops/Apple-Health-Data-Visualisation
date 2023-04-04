@@ -4,7 +4,6 @@ import pandas as pd
 """ script to get steps data wanted from the all_records.csv file created in import_clean"""
 
 
-
 all = pd.read_csv("apple_health_export/all_records.csv")
 
 ## get steps
